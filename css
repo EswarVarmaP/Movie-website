@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+}
+
+#movies {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+table th,
+table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #000;
+}
+
+table th {
+    background-color: #86afc5;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Styles for the loading indicator */
+.loading-indicator {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+}
+
+.loading-indicator .spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    animation: spin 1s linear infinite;
+}
+
+/* Spinner animation */
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Movie Image */
+#movies img {
+    width: 125px;
+    height: 100px;
+}
