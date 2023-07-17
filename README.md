@@ -1,2 +1,16 @@
 MOVIE WEBSITE:
 
+This website is the ultimate destination for all your movie streaming needs. In this everexpanding digital landscape, finding the perfect OTT (Over-The-Top) platform to 
+watch your favourite movies can be an challenge. However, through this website we 
+are here to simplify the search and guide you through the perfect OTT.This Movie 
+website is designed to provide users with a comprehensive database of OTT links, 
+offering a wide range of movies. Our platform aims to streamline the process of finding 
+the right OTT service by consolidating information and presenting it in a user-friendly 
+manner. The website features an intuitive search engine that allows users to browse 
+through a vast variety of films . In summary, this website is your virtual guide to the 
+vast digital world of streaming services. With its comprehensive database, intuitive 
+search engine, and convenient links to OTT platforms, It aims to simplify the process 
+of finding and enjoying your preferences. 
+
+PROJECT SNIPPET:
+
