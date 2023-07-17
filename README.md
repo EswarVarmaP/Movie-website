@@ -13,4 +13,5 @@ search engine, and convenient links to OTT platforms, It aims to simplify the pr
 of finding and enjoying your preferences. 
 
 PROJECT SNIPPET:
+https://github.com/EswarVarmaP/ESWAR/assets/134736580/6bfafae5-f02f-4ea9-aa0f-97244e53212d)
 
